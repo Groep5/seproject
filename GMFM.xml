@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<FORMULIER>
+      
+    <UITLEG>
+        <BESCHRIJVING>
+             <![CDATA[
+            SLEUTELSCORE <br />
+            0 : doet geen poging <br />
+            1 : doet poging  <br />
+            2 : gedeeltelijke uitvoering <br />
+            3 : volledige uitvoering <br />
+            NT : niet getest (nodig voor GMAE scoring) <br />
+            ]]>
+        </BESCHRIJVING>
+    </UITLEG>
+    
+    <REGEL>
+        <VRAAG>Vraag</VRAAG>
+        <INVOERMOGELIJKHEID>
+            <![CDATA[
+            Score <br />
+            0 &#160; 1 &#160; 2 &#160; 3 &#160; NT
+            ]]>
+        </INVOERMOGELIJKHEID>
+    </REGEL>
+    
+    <REGEL>
+        <VRAAG>A: Liggen en omrollen</VRAAG>
+        <INVOERMOGELIJKHEID></INVOERMOGELIJKHEID>
+    </REGEL>
+   
+    <REGEL>
+        <VRAAG>1. Rugligging, hoofd in middenlijn: draait hoofd, extremiteiten symmetrisch</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>2. Rugligging: brengt handen naar middenlijn, maakt vingercontact</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>3. Rugligging: richt hoofd 45 graden op</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>4. Rugligging: flecteert R heup en knie over volledige bewegingtraject</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>5. Rugligging: flecteert L heup en knie over volledige bewegingtraject</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>6. Rugligging: reikt met R arm, hand kruist middenlijn richting speeltje</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>7. Rugligging: reikt met L arm, hand kruist middenlijn richting speeltje</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>8. Rugligging: rolt om naar buikligging over R zijde</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>9. Rugligging: rolt om naar buikligging over L zijde</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>10. Buikligging: richt hoofd rechtop</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>11. Buikligging, steun op onderarmen: richt hoofd rechtop, strekt ellebogen, tilt borst van onderlaag</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>12. Buikligging, steun op onderarmen: gewicht op R onderarm, strekt L arm volledig voorwaarts</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>13. Buikligging, steun op onderarmen: gewicht op L onderarm, strekt R arm volledig voorwaarts</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>14. Buikligging: rolt om naar rugligging over R zijde</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>15. Buikligging: rolt om naar rugligging over L zijde</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+  
+    <REGEL>
+        <VRAAG>16. Buikligging: pivoteert 90 graden naar R m.b.v.</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+
+    <REGEL>
+        <VRAAG>17. Buikligging: pivoteert 90 graden naar L m.b.v.</VRAAG>
+        <INVOERMOGELIJKHEID>viercheckboxNT</INVOERMOGELIJKHEID>
+    </REGEL>
+    
+    <REGEL>
+        <VRAAG>Totaalscore A:</VRAAG>
+        <INVOERMOGELIJKHEID>tekstvak</INVOERMOGELIJKHEID>
+    </REGEL>
+
+</FORMULIER>
+
+
+
+
